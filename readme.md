@@ -9,7 +9,12 @@
   <br>
   <br>
 
+
+
+
+### Show some ❤️ by starring some of the repositories!
+
+⭐️ From [Sethu Pavan](https://github.com/sethupavan12)
+
+
 </p>
-
-
-<p align="center"> ⭐️ From <p href="https://github.com/sethupavan12" Sethu Pavan /p></p>
