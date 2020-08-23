@@ -1,4 +1,5 @@
 <p align="center">
+  <img src="https://github.com/sethupavan12/sethupavan12/blob/master/screenshot.gif"  />
   <br>
   <br>
   <br>
@@ -7,8 +8,8 @@
   <br>
   <br>
   <br>
-  <img src="https://github.com/selimdoyranli/selimdoyranli/blob/master/preview.gif" width="350" />
+
 </p>
 
-------------
-<p align="center">⭐️ From <a href="https://github.com/sethupavan12"</a></p>
+
+⭐️ From [Sethu Pavan](https://github.com/sethupavan12)
