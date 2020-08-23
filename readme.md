@@ -12,4 +12,4 @@
 </p>
 
 
-⭐️ From [Sethu Pavan](https://github.com/sethupavan12)
+<p align="center"> ⭐️ From <p href="https://github.com/sethupavan12" Sethu Pavan /p></p>
