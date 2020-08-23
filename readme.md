@@ -3,18 +3,13 @@
   <br>
   <br>
   <br>
-  <samp>Hello there. I'm <a href="https://sethupavan.me">Sethu Pavan</a>.<br> I'm an Undergraduate Student from the UK .<br><br>#python, #js, #WordPress, #Tensorflow</samp>
+  <samp>Hello there. I'm <a href="https://sethupavan.me">Sethu Pavan</a>.<br> I'm a sophomore in Computer Science at Cardiff University, UK .<br><br>#python, #js, #WordPress, #Tensorflow #ComputerVision</samp>
   <br>
   <br>
   <br>
   <br>
-
-
-
-
+  
    ### Show some ❤️ by starring some of the repositories!
 
    ⭐️ From [Sethu Pavan](https://github.com/sethupavan12)
-
-
 </p>
