@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/sethupavan12/sethupavan12/blob/master/screenshot.gif"  />
+  <img src="https://github.com/sethupavan12/sethupavan12/blob/master/sphere.gif"  />
   <br>
   <br>
   <br>
