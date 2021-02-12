@@ -3,7 +3,7 @@
   <br>
   <br>
   <br>
-  <samp>Hello there. I'm <a href="https://sethupavan.me">Sethu Pavan</a>.<br> I'm a sophomore in Computer Science at Cardiff University, UK .<br><br>#python, #js, #WordPress, #Tensorflow #ComputerVision</samp>
+  <samp>Hello there. I'm <a href="https://sethupavan.me">Sethu Pavan</a>.<br> I'm a sophomore in Computer Science at Cardiff University, UK .<br><br>#python, #js , #Tensorflow #ComputerVision</samp>
   <br>
   <br>
   <br>
