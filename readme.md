@@ -33,7 +33,7 @@ I am a 2nd year Computer Science student at **Cardiff University**, UK and I am 
 - Version Control with **GIT**
 - Database management with **MySQL** and **Oracle**
 - Competitive Programming.
-- Website development with **WordPress**
+- Website development with **WordPress** , HTML, CSS, JS
 - UI design and Prototyping with **Adobe XD**
 
 
