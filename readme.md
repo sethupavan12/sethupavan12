@@ -24,7 +24,8 @@
  Machine Learning | Deep Learning | Object-Oriented Programming | Java | Python | Quantum Computing | Web Development |
 
 ## About :sunglasses:
-I am a 2nd year Computer Science student at **Cardiff University**, UK and I am going to start working at [**STFC**](https://stfc.ukri.org/index.cfm) as a Placement Year Software Developer this summer.
+I am a 2nd year Computer Science student at **Cardiff University**, UK and Placement Year Software Developer 
+at [**STFC**](https://stfc.ukri.org/index.cfm).
 
 ## Technologies :fire:
 - Deep Learning with **Tensorflow**.
