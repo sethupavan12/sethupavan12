@@ -1,4 +1,4 @@
- # <a href="https://www.linkedin.com/in/sethu-pavan-412582149/">Sethu Pavan</a> 
+ # <a href="https://www.linkedin.com/in/sethu-pavan-venkata-reddy-pastula-412582149/">Sethu Pavan Venkata Reddy Pastula</a> 
 
  <img align='centre' src="https://github-readme-stats.vercel.app/api?username=sethupavan12&&show_icons=true&theme=radical&line_height=27&v=5" alt="Sethu's GitHub Stats" />
   <br>
