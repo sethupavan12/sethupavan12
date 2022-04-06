@@ -15,11 +15,6 @@
   <a href="https://github.com/sethupavan12">
     <img align="center" alt="Sethu's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
-
-  <a href="https://www.facebook.com/sethupavan.space.guy">
-    <img align="center" alt="Sethu's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-  </a>
-
 </div>
 
   
