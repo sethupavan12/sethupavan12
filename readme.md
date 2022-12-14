@@ -9,7 +9,7 @@
    <a href="https://twitter.com/sethupavan12">
     <img align="center" alt="Sethu's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
-  <a href="https://www.linkedin.com/in/sethu-pavan-412582149">
+  <a href="https://www.linkedin.com/in/sethu-pavan-venkata-reddy-pastula-412582149">
     <img align="center" alt="Sethu's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <a href="https://github.com/sethupavan12">
