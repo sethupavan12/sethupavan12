@@ -1,5 +1,5 @@
 # Hello There!
-I am a **Software Engineer** based in London, currently working at [Microsoft](https://github.com/microsoft). My specialty is **building solutions powered by AI**.
+I am a **Software Engineer** based in London, currently working at [Microsoft](https://github.com/microsoft). My specialty is **building solutions powered by AI** and experimenting with novel deep learning model architectures.
 
 I've won numerous hackthons and some at a global level building AI solutions that solve a real problem.
 
