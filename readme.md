@@ -5,7 +5,7 @@ I've won numerous hackthons and some at a global level building AI solutions tha
 
 I am currently **open to new AI opportunities** in London. If you have an exciting opportunity, please feel free to reach out via [email](sethupavan12@gmail.com) or through LinkedIn!
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ashleymavericks/)]([https://www.linkedin.com/in/ashleymavericks/](https://www.linkedin.com/in/sethu-pavan-venkata-reddy-pastula-412582149/))
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/sethu-pavan-venkata-reddy-pastula-412582149/)]([https://www.linkedin.com/in/sethu-pavan-venkata-reddy-pastula-412582149/](https://www.linkedin.com/in/sethu-pavan-venkata-reddy-pastula-412582149/))
 
 <div align="center"> 
 
