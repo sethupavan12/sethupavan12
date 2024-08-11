@@ -3,7 +3,7 @@ I am a **Software Engineer** based in London, currently working at [Microsoft](h
 
 I love solving real problems with AI and I've won numerous hackthons and some at a global level trying to achieve that.
 
-I am currently **open to new AI opportunities** in London. If you have an exciting opportunity and want to build something great together, please feel free to reach out via [email](sethupavan12@gmail.com) or through [LinkedIn!](https://www.linkedin.com/in/sethu-pavan-venkata-reddy-pastula-412582149/)
+I am currently **open to new AI opportunities** in London. If you have an exciting opportunity and want to build something great together, please feel free to reach out via [LinkedIn!](https://www.linkedin.com/in/sethu-pavan-venkata-reddy-pastula-412582149/)
 
 <div align="center"> 
 
