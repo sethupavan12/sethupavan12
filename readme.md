@@ -1,5 +1,5 @@
 # Hello There!
-I am a **Software Engineer** based in London, I've previously worked at [Microsoft](https://github.com/microsoft). My interests are **building solutions powered by LLMs**, **serving LLMs** experimenting with **model architectures**.
+I am an **AI Engineer** based in London, I've previously worked at [Microsoft](https://github.com/microsoft). My interests are **building solutions powered by LLMs**, **serving LLMs** experimenting with **model architectures**.
 
 I love solving real problems with AI and I've won numerous hackthons trying to achieve that.
 
