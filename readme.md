@@ -1,9 +1,7 @@
 # Hello There!
-I am a **Software Engineer** based in London, currently working at [Microsoft](https://github.com/microsoft). My specialty is **building solutions powered by AI**, **Serving LLMs** experimenting with **model architectures**.
+I am a **Software Engineer** based in London, I've previously worked at [Microsoft](https://github.com/microsoft). My interests are **building solutions powered by LLMs**, **serving LLMs** experimenting with **model architectures**.
 
-I love solving real problems with AI and I've won numerous hackthons and some at a global level trying to achieve that.
-
-I am currently **open to new AI opportunities** in London. If you have an exciting opportunity and want to build something great together, please feel free to reach out via [LinkedIn!](https://www.linkedin.com/in/sethu-pavan-venkata-reddy-pastula-412582149/)
+I love solving real problems with AI and I've won numerous hackthons trying to achieve that.
 
 <div align="center"> 
 
