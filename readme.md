@@ -1,5 +1,5 @@
 # Hello There!
-I am an **AI Engineer** based in London UK. I've previously worked at [Microsoft](https://github.com/microsoft) as a Software Engineer where I was responsible for fixing high-priority, time-sensitive production issues everyday affecting 100M+ users worldwide. After working on traditional software, I decided to shift gears and focus on AI - an area that has always fascinated me since especially since I first saw the movie [Robo - 2010](https://www.imdb.com/title/tt1305797/). 
+I am an **AI Engineer** based in London UK. I've previously worked at [Microsoft](https://github.com/microsoft) as a Software Engineer where I was responsible for fixing high-priority, time-sensitive production issues everyday affecting 100M+ users worldwide. After working on traditional software, I decided to shift gears and focus on AI - an area that has always fascinated me since childhood
 
 Now, I work on building complex multi-agent systems that make lawyers life easier. Whether it’s optimizing algorithms, training models, or solving complex engineering problems, I enjoy the challenge of making stubborn things work smarter and better.
 
