@@ -1,13 +1,11 @@
 # Hello There!
-I am an **AI Engineer** based in London UK. I've previously worked at [Microsoft](https://github.com/microsoft) as a Software Engineer where I was responsible for fixing high-priority, time-sensitive production issues everyday affecting 100M+ users worldwide. After working on traditional software, I decided to shift gears and focus on AI - an area that has always fascinated me since childhood
+I am an **AI Engineer** based in London UK. In the past worked at [Microsoft](https://github.com/microsoft), where I worked as a Software Engineer on a large-scale Azure product impacting over 100M+ users worldwide. After working on traditional software, I decided to shift gears and pivot to AI - an area that has always fascinated me since childhood.
 
-Now, I work on building complex multi-agent systems that make lawyers life easier. Whether it’s optimizing algorithms, training models, or solving complex engineering problems, I enjoy the challenge of making stubborn things work smarter and better.
+Now, I work on building multi-agent systems that make lawyers life easier. My work involves things like System Design, Agentic systems, RAG, Document processing pipelines for RAG, OCR, making APIs, AI evals.
 
-During weekends, you can find me:
-1. Fine-tuning LLMs - [Find my work here](https://huggingface.co/dumbequation)
-2. Open-source Projects - Follow for updates!
-3. Doing hackathons on AI - 6+ wins
-4. Experimenting with Model Architectures
+I also do bit of fine-tuning work when I find a lack of specific expertise in the current SOTA genenric mainstream models from OpenAI, Anthropic and Gemini. You can find these models on my HuggingFace [here](https://huggingface.co/dumbequation).
+
+Current side project - [Markdownify](https://github.com/sethupavan12/Markdownify) to solve the frustations of OCR for AI engineers who are building document processing pipelines for RAG.
 
 <div align="center"> 
 
