@@ -9,10 +9,4 @@ Current side project - [Markdownify](https://github.com/sethupavan12/Markdownify
 
 <div align="center"> 
 
- [![GitHub Streak](https://streak-stats.demolab.com?user=sethupavan12&theme=neon&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sethupavan12/count.svg" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sethupavan12&layout=compact&theme=vision-friendly-dark)
