@@ -4,5 +4,5 @@ I am an **AI Engineer** building a platform that makes lawyers 10X productive. B
 Open-source Projects
  - [Markdownify](https://github.com/sethupavan12/Markdownify) - OCR messy PDFs into clean Markdown, built by and for AI Engineers.
  - [OP-VTON](https://github.com/sethupavan12/OP-VTON-Occlusion-Preserving-Virtual-Try-On-Network) - GAN model that can generate a human with desired clothes, beats SOTA models quantitatively and qualitatively.
- - [RAT](https://github.com/RascalSoftware/RAT) - Toolbox for analysing non-polarized neutron reflectivity data obtained from a particle accelerator, affiliated with [STFC, UKRI](https://www.ukri.org/councils/stfc/)
+ - [RAT](https://github.com/RascalSoftware/RAT) - Toolbox for analysing non-polarized neutron reflectivity data obtained from a particle accelerator, affiliated with [STFC](https://www.ukri.org/councils/stfc/)
  - [DyLoader](https://github.com/sethupavan12/DyLoader-MatlabCpp) - Dynamically load methods from a Dynamic Library, built for C++ and Matlab MEX. 
