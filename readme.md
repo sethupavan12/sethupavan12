@@ -3,7 +3,7 @@ I am an **AI Engineer** building a platform that makes lawyers 10X productive. B
 
 Projects
  - [MetallicClaw](https://github.com/sethupavan12/MetallicClaw) - Minimalist modern agent runtime written in C for ultra-low latency edge machines.
- - [MetalExplorer](https://github.com/sethupavan12/MetalExplorer) - AI Activity Monitor for age of high-autonomy, low-observability agentic software, monitor agents, MCPs, and dev servers
+ - [MetalExplorer](https://github.com/sethupavan12/MetalExplorer) - AI Activity Monitor for age of high-autonomy, low-observability agentic software, monitor agents, MCPs.
  - [Markdownify](https://github.com/sethupavan12/Markdownify) - OCR messy PDFs into clean Markdown, built by and for AI Engineers.
  - [OP-VTON](https://github.com/sethupavan12/OP-VTON-Occlusion-Preserving-Virtual-Try-On-Network) - GAN model that can generate a human with desired clothes, beats SOTA models quantitatively and qualitatively.
  - [RAT](https://github.com/RascalSoftware/RAT) - Toolbox for analysing non-polarized neutron reflectivity data obtained from a particle accelerator, affiliated with [STFC](https://www.ukri.org/councils/stfc/)
