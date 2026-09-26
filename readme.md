@@ -2,6 +2,7 @@
 I am an **AI Engineer** building a platform that makes lawyers 10X productive. Before this, I was a Software Engineer at [Microsoft](https://github.com/microsoft), where I worked on an Azure product, related to 5G network core, impacting over 100M+ users worldwide. Before that I helped build a software that helps analyzing neutron reflectivity data from particle accelerator at [STFC, UKRI](https://www.ukri.org/councils/stfc/). I love building AI and cool stuff with AI.
 
 Projects
+ - [Nirnaya](https://web-six-phi-50.vercel.app/gallery/) - A System One model that is trained on RTX 4090 with a novel model architecture to make ultra low latency structured decisions like [Jev](https://typesafe.ai/) but it's 10x faster, 100x cheaper and 50x smaller than Jev. So tiny that the model is able to be deployed inside the browser making input + output tokens free forever with full-privacy.
  - [Body Pain Atlas](https://github.com/sethupavan12/Body-Pain-Reliever) - Wake up with a muscle pain, go to [Body Pain Atlas](https://human-atlas-rho-six.vercel.app/), select muscle, watch video, fix pain, be happy!
  - [Technically Inept](https://techroastshow.live/) - Tech Roast Show Youtube channel but AI. Watch [this](https://www.youtube.com/watch?v=89K8-4tHhgc) to understand what they do. Basically, roast your startup by pasting your startup's website.
  - [MetallicClaw](https://github.com/sethupavan12/MetallicClaw) - Minimalist modern agent runtime written in C for ultra-low latency edge machines.
